@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "My Personal Website 'Dot 1 Innovations'",
+    title: "My Personal Website 'Dot 1 Innovation'",
     description:
       "This is my personal website for portfolio",
     url: "https://dot1innovations.com/",
