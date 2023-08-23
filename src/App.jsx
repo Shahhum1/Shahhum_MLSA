@@ -28,7 +28,7 @@ const siteProps = {
   title: "Web developer & SEO expert",
   email: "mshahhum.1@gmail.com",
   gitHub: "Shahhum1",
-  instagram: "m_shhah.1",
+  instagram: "m_shah.1",
   linkedIn: "shahdotone",
   medium: "",
   twitter: "microsoft",
